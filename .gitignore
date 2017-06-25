@@ -18,3 +18,6 @@ textures
 *.exe
 *.conf
 *.CONF
+*.new
+*.old
+*.bkp
